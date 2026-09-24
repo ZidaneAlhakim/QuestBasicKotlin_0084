@@ -28,4 +28,13 @@ Conditional Expression: If
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/af718ce0-dab8-4273-8cc9-c3ce06d328c4" />
 Penjelasan: Ekspresi kondisi diletakkan di dalam tanda kurung (), dan aksi yang dieksekusi jika kondisi bernilai benar diletakkan di dalam kurung kurawal {}
 
+Conditional Expression: When
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/365f54e3-5f9f-4b17-bb14-27b4e10bfa1d" />
+Penjelasan: when digunakan ketika ada beberapa cabang kondisi (seperti switch-case pada bahasa lain). Gunakan -> untuk memisahkan kondisi dengan aksi yang dilakukan.
+
+Loops: For
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/7b07af09-259a-49a7-8129-6d4927f202da" />
+Penjelasan: for digunakan untuk melakukan perulangan pada serangkaian nilai (seperti rentang angka 1..5). Iterator dan rentang ditulis menggunakan kata kunci in.
+
+
 
