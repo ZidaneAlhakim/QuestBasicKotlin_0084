@@ -36,5 +36,11 @@ Loops: For
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/7b07af09-259a-49a7-8129-6d4927f202da" />
 Penjelasan: for digunakan untuk melakukan perulangan pada serangkaian nilai (seperti rentang angka 1..5). Iterator dan rentang ditulis menggunakan kata kunci in.
 
+Functions, Named Arguments, & Default Parameters
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/765dce92-0957-4b4f-8af1-288585b74761" />
+Penjelasan: Parameter fungsi dideklarasikan beserta tipenya di dalam tanda kurung (). Argumen bernama memungkinkan pemanggilan parameter secara eksplisit agar lebih mudah dibaca, sedangkan nilai default (dideklarasikan dengan =) membuat parameter tersebut opsional untuk diisi
 
+Functions Tanpa Return & Lambda Expressions
+<img width="1861" height="1078" alt="image" src="https://github.com/user-attachments/assets/b97fad91-a3af-470b-877c-8d05ccf31b9f" />
+Penjelasan: Jika fungsi tidak mengembalikan nilai, tipenya adalah Unit dan kata kunci return bisa dihilangkan. Lambda memungkinkan penulisan fungsi yang lebih ringkas dan langsung (inline).
 
