@@ -44,3 +44,14 @@ Functions Tanpa Return & Lambda Expressions
 <img width="1861" height="1078" alt="image" src="https://github.com/user-attachments/assets/b97fad91-a3af-470b-877c-8d05ccf31b9f" />
 Penjelasan: Jika fungsi tidak mengembalikan nilai, tipenya adalah Unit dan kata kunci return bisa dihilangkan. Lambda memungkinkan penulisan fungsi yang lebih ringkas dan langsung (inline).
 
+Class, Properties, & Member Functions
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/a3f9c899-cb37-43a4-8f7d-026c209106c0" />
+Penjelasan: class mendefinisikan cetak biru atau karakteristik suatu objek. Karakteristik objek disebut properti, sementara perilakunya didefinisikan dalam fungsi anggota di dalam badan kelas.
+
+Data Classes
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/1ffe9926-0d61-471f-93d8-ee7894c2ff9d" />
+penjelasan: Kelas data dirancang khusus untuk menyimpan data dan secara otomatis dilengkapi dengan fungsi berguna seperti .toString() untuk log, .equals() / == untuk perbandingan, dan .copy() untuk menduplikasi objek.
+
+Null Safety
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/4b3ca548-7dba-4c66-974c-d5299c5717ec" />
+Penjelasan: Kotlin mengharuskan deklarasi eksplisit dengan tanda ? jika sebuah variabel diperbolehkan menampung nilai null. Safe call (?.) mencegah error dengan mereturn null secara otomatis, sedangkan operator Elvis (?:) menetapkan nilai default apabila terdeteksi kondisi null.
